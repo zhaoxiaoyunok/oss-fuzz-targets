@@ -1,5 +1,7 @@
 Fuzz Targets
 ============
+wolfssl libfuzzer harness
+
 
 The files in this repository are fuzzing targets for wolfSSL. They follow the
 LLVM libFuzzer API and have a very specific naming scheme for integration with
